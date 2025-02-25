@@ -1,0 +1,3 @@
+jupyternoai_submit.sh
+*.log
+*.ipynb_checkpoints/*
